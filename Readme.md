@@ -1,8 +1,8 @@
 ## Introduction
-Hi, my name is Daphne (Nien Yeh Daphne Yu). I have have a background in genetic sequencing and testing. I am currently enrolled in the Health Data Science Masters Program. From this class, I wish to familiarize myself with Python and related data science functions. 
+Hi, my name is Daphne. I have have a background in genetic sequencing and testing. I am currently enrolled in the Health Data Science Masters Program. From this class, I wish to familiarize myself with Python and related data science functions. 
 
 ## Collaborators
-Hailiang Wu, Chenyu Wang
+
 
 ## Instructions to open exercises
 ### Exercise 1 - Making the Grade 
