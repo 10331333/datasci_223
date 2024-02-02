@@ -1,8 +1,5 @@
 # Exercise 2 - Cleaning Data
 
-Name: Nien Yeh Daphne Yu  
-Collaborators: Hailiang Wu, Chenyu Wang
-
 ## Instructions to open exercises
 1. Open [exercise-dirty_emnist.ipynb](https://github.com/10331333/datasci_223/blob/main/exercises/2-data-munging/exercise-dirty_emnist.ipynb) Jupyter notebook to review my code.
 2. Clear outputs. (There should not be any, but do this if necessary. )
