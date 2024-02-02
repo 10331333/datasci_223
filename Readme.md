@@ -19,3 +19,8 @@ Open [exercise.ipynb](https://github.com/10331333/datasci_223/blob/main/exercise
 3. Download this file to see required packages: [requirements.txt](https://github.com/10331333/datasci_223/blob/main/exercises/2-data-munging/requirements.txt) or follow instructions in the jupyter notebook to install and run packages.
 4. Run code in a fresh virtual environment. Python 3.11.2 was used. 
 
+### Exercise 3 - chinook exercise 
+1. Download [exercise.ipynb](https://github.com/10331333/datasci_223/blob/main/exercises/3-sql-queries/exercise.ipynb) and [chinook.sqlite database](https://github.com/10331333/datasci_223/blob/main/exercises/3-sql-queries/chinook.sqlite). Save both files in the same folder. 
+2. Open exercise.ipynb to review my code.
+3. Clear outputs. (There should not be any, but do this if necessary.)
+4. Run code in a fresh virtual environment. Python 3.11.2 was used. 
