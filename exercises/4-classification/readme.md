@@ -13,15 +13,15 @@
 Classification will be done using neural network because handwritten letters can have complex patterns that can be better analyzed by neural networks. 
 
 #### Train away!
-Parameter tuning: 
-Formatting input data: 
+Parameter tuning: No parameter tuning was done with the model. 
+Formatting input data: Image data needs to be converted into tensors. The images arrays are later flattened in the model.  
 
 #### Evaluate the model
-Model evaluation on test set: 
-confusion matrix performance: 
+Model evaluation on test set:  
+confusion matrix performance:  
 
-#### Investigate subsets
-Classes that the model performs well/poorly: 
+#### Investigate subsets  
+Classes that the model performs well/poorly:   
 
 #### Improve performance
 
