@@ -1,33 +1,33 @@
 # Exercise 4 - emnist classification models exercise
-## Instructions
+**Instructions**
 1. Download [exercise.ipynb](https://github.com/10331333/datasci_223/blob/homework/exercises/4-classification/exercise.ipynb).
 2. Open exercise.ipynb and clear outputs. (There should not be any, but do this if necessary.)
 3. Create a fresh virtual environment by running the first code box to download the required packages. Python 3.11.2 was used. 
 4. Run the rest of the code. 
 
+---
+# Notes
 
-## Model explanation
-
-### 2. Classify letters a -> g
-#### Model Choice: 
+## Task 1: Classify all symbols (Classification model for all letters was already done after week 4)
+### - Model Choice
 Classification will be done using neural network because handwritten letters can have complex patterns that can be better analyzed by neural networks. 
 
-#### Train away!
+### - Model training
 Parameter tuning: No parameter tuning was done with the model. 
 Formatting input data: Image data needs to be converted into tensors. The images arrays are later flattened in the model.  
 
-#### Evaluate the model
+### - Evaluate the model
 Model evaluation on test set:  
 confusion matrix performance:  
 
-#### Investigate subsets  
+### - Investigate subsets  
 Classes that the model performs well/poorly:   
 
-#### Improve performance
+### - Improve performance
 
 
-### 3. Model showdown: upper vs lowercase on abcXYZ
-#### Train and tune models
+## Task 2: Model showdown: upper vs lowercase on abcXYZ
+### Train and tune models
 
 Perform a full model training and hyperparameter tuning.
 
@@ -44,16 +44,16 @@ Perform a full model training and hyperparameter tuning.
 6. Check model performance on the validation hold-out
 
 
-### 4. (_Optional_) Model comparison: classify even vs odd
+## Task 3: (_Optional_) Model comparison: classify even vs odd
 
 **NOTE:** This is a larger dataset (~400k rows) so it will require more memory and time to train models on it. 
 
 Alternatively, you can train models on smaller subsets of the data to get a feel for which models perform better than others. Then train the winning model on the full dataset and validate against the hold-out.
 
-#### Subset the data
+### Subset the data
 
 Select only digits and add a column for 'is_even'. Be sure to create a validation hold-out dataset for later.
 
-#### Build and compare models
+### Build and compare models
 
 Train at least two different models, compare the results and choose a winner based on an evaluation metric of your choice.
