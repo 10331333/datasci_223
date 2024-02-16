@@ -5,32 +5,29 @@
 3. Create a fresh virtual environment by running the first code box to download the required packages. Python 3.11.2 was used. 
 4. Run the rest of the code. 
 
-# Classification on `emnist`
 
-## 1. Create `Readme.md` to document your work
+## Model explanation
 
-Explain your choices, process, and outcomes.
-
-## 2. Classify letters a -> g
-### Model Choice: 
+### 2. Classify letters a -> g
+#### Model Choice: 
 Classification will be done using neural network because handwritten letters can have complex patterns that can be better analyzed by neural networks. 
 
-### Train away!
+#### Train away!
 Parameter tuning: 
 Formatting input data: 
 
-### Evaluate the model
+#### Evaluate the model
 Model evaluation on test set: 
 confusion matrix performance: 
 
-### Investigate subsets
+#### Investigate subsets
 Classes that the model performs well/poorly: 
 
-### Improve performance
+#### Improve performance
 
 
-## 3. Model showdown: upper vs lowercase on abcXYZ
-### Train and tune models
+### 3. Model showdown: upper vs lowercase on abcXYZ
+#### Train and tune models
 
 Perform a full model training and hyperparameter tuning.
 
@@ -47,16 +44,16 @@ Perform a full model training and hyperparameter tuning.
 6. Check model performance on the validation hold-out
 
 
-## 4. (_Optional_) Model comparison: classify even vs odd
+### 4. (_Optional_) Model comparison: classify even vs odd
 
 **NOTE:** This is a larger dataset (~400k rows) so it will require more memory and time to train models on it. 
 
 Alternatively, you can train models on smaller subsets of the data to get a feel for which models perform better than others. Then train the winning model on the full dataset and validate against the hold-out.
 
-### Subset the data
+#### Subset the data
 
 Select only digits and add a column for 'is_even'. Be sure to create a validation hold-out dataset for later.
 
-### Build and compare models
+#### Build and compare models
 
 Train at least two different models, compare the results and choose a winner based on an evaluation metric of your choice.
