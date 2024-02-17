@@ -1,4 +1,4 @@
-# Exercise 4 - emnist classification models exercise
+# Exercise 4/5 - emnist classification models exercise
 **Instructions**
 1. Download [exercise4-5.ipynb](https://github.com/10331333/datasci_223/blob/homework/exercises/4-classification/exercise4-5.ipynb).
 2. Open exercise.ipynb and clear outputs. (There should not be any, but do this if necessary.)
