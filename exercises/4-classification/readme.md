@@ -56,3 +56,5 @@ Promote `random_forest` as the final model (highest recall) and apply to the ent
 ## Task 2 Option 2: Model showdown: upper vs lowercase on abcXYZ
 This exercise is in [exercise4-5.ipynb](https://github.com/10331333/datasci_223/blob/homework/exercises/4-classification/exercise4-5.ipynb).
 
+Best model was selected according to highest accuracy in nested cross validation using training set only. The final model was chosen to be `RandomForestClassifier(max_depth=10, min_samples_split=5, random_state=42)`. The entire training data were then used to re-train the selected model. Model performance was checked with validation data. Final model validation accuracy score = 0.84. 
+
