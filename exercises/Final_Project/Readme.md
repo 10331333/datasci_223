@@ -76,7 +76,7 @@ Health-related risk behaviors
 | Fall out rate       | 0.217317   |   0.208829 |	0.200340 |	0.211658  |	0.205433   |	0.208715|
 
 ## Evaluation: Loss and Accuracy Plots
-![Training and Validation Probabilities](plots/epochs.png)
+![Training and Validation Accuracy]('plots/epochs.png')
 
 # Limitations
 
