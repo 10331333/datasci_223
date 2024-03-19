@@ -8,6 +8,7 @@ CNN model was adapted from:
 ## 1. Download the `Final_Project` file and [BRFSS.zip](https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system/download?datasetVersionNumber=1). Save the dataset in the `Final_Project` folder
 
 ## 2. Run `Clean_Data.ipynb`
+Tasks: 
 - Select variables from BRFSS 2015
 - Clean selected data
 - Visualize data with ydata-profiling as a widget in the Jupyter notebook
