@@ -76,15 +76,15 @@ Health-related risk behaviors
 | Fall out rate       | 0.217317   |   0.208829 |	0.200340 |	0.211658  |	0.205433   |	0.208715|
 
 ## Evaluation: Loss and Accuracy Plots
-![Training and Validation Accuracy]('plots/epochs.png')
+![Training and Validation Accuracy](plot/epochs.png)
 
 # Limitations
 
 ## Outcome Variable
 
-![imbalanced](plots/imbalanceddata.png)
+![imbalanced](plot/imbalanceddata.png)
 
-![balanced](plots/balanceddata.png)
+![balanced](plot/balanceddata.png)
 
 The data had an imbalance between those that have coronary heart disease cases and those that do not. Without balancing data, we risk training a model that would predict non-cases better. Selected dataset must be downsampled to create balanced data for training. 
 
