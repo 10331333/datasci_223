@@ -5,8 +5,7 @@ CNN model was adapted from:
 > Soumyabrata Dev, Hewei Wang, Chidozie Shamrock Nwosu, Nishtha Jain, Bharadwaj Veeravalli, and Deepu John, A predictive analytics approach for stroke prediction using machine learning and neural networks, Healthcare Analytics, 2022.
 
 # How to run code: 
-## 1. Download dataset
-Download [BRFSS.zip](https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system/download?datasetVersionNumber=1) and save into the same folder. 
+## 1. Download the `Final_Project` file and [BRFSS.zip](https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system/download?datasetVersionNumber=1). Save the dataset in the `Final_Project` folder
 
 ## 2. Run `Clean_Data.ipynb`
 - Select variables from BRFSS 2015
