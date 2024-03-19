@@ -34,22 +34,26 @@ Tasks:
 <u>Predictor Variables</u>
 
 Demographic variables
+
     - sex: `sex`
     - race: `race`
     - age: `age5y`
     - marital status: `ever_married`
 
 Socioeconomic status variables
+
     - education: `education`
     - income: `income``
     - employment: `employment` 
 
 Health variables
+
     - diabetes: `diabetes`
     - hypertension: `hypertension`
     - BMI: `BMI`
 
 Health-related risk behaviors
+
     - smoking status: `smoke`
     - vegetable consumption: `vegetable`
         - *Consume Vegetables 1 or more times per day*
