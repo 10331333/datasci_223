@@ -7,3 +7,4 @@ ydata-profiling
 matplotlib
 tensorflow
 torch 
+sqlalchemy
